@@ -1,0 +1,20 @@
+(base) C:\Users\Lenovo>cd Downloads\Python2
+(base) C:\Users\Lenovo>cd Downloads\Python2
+(base) C:\Users\Lenovo>cd Downloads\Python2
+
+(base) C:\Users\Lenovo\Downloads\Python2>python3 server.py
+Host: localhost
+Port: 0001
+New connection at ID 0 ('127.0.0.1', 52529)
+New connection at ID 1 ('127.0.0.1', 52610)
+
+(base) C:\Users\Lenovo\Downloads\Python2>python3 client.py
+Host: localhost
+Port: 0001
+Hai Rez Apa Kabar?
+
+(base) C:\Users\Lenovo\Downloads\Python2>python3 client.py
+Host: localhost
+Port: 0001
+Hai Rez Apa Kabar?
+Hai Dev, Baik!
